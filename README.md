@@ -1,3 +1,3 @@
 # Case Study #1 - TMBD Movie Analysis 
 
-https://github.com/julesjuliano0721/1stSQLProject/issues/1#issue-1761447173
+![113-1133142_transparent-movie-logo-png-png-download](https://github.com/julesjuliano0721/1stSQLProject/assets/136859698/46b95492-fb0f-4078-9f1d-d832abf9adfb)

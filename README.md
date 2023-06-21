@@ -9,7 +9,17 @@
 
 ## Introduction
 
-The purpose of this case study is to explore and discover key insights within this IMBD movie dataset. We will be using BigQuery SQL to further develop a better understanding of patterns and trends based on the data made available to us:
+The purpose of this case study is to explore and discover key insights within this IMBD movie dataset. We will be using BigQuery SQL to further develop a better understanding of patterns and trends based on the data made available to us.
+
+## Data
+
+IMBD has shared two datasets with us:
+
+ - IMBD_20thcent
+ - IMBD_21stcent
+
+
+Both datasets contain the same content:
 
  - Poster_Link: Link of the poster that imdb using
  - Series_Title: Name of the movie
@@ -26,5 +36,4 @@ The purpose of this case study is to explore and discover key insights within th
  - Gross: Money earned by that movie
 
  
-## Data
 

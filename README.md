@@ -15,14 +15,12 @@ The purpose of this project is to explore and discover key insights within datas
 
 Movehub has shared three datasets with us:
 
- - cities
- - movehubcol
- - movehubqol
+ - cities.csv
+ - movehubcol.csv
+ - movehubqol.csv
 
 
-Both datasets contain the same content:
-
-### movehubqualityoflife.csv
+### <u> movehubqol.csv <u>
 
 Cities ranked by
 
@@ -38,7 +36,7 @@ Cities ranked by
 
  - Crime Rating: Low is good. The lower the score the safer people feel in this city.
 
-### movehubcostofliving.csv
+### movehubcol.csv
 
 Unit: GBP
 

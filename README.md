@@ -1,6 +1,6 @@
 # MySQL Data Exploration Project - Movehub City Rankings :house:
 
-<img src= "[https://www.pngitem.com/pimgs/m/113-1133142_transparent-movie-logo-png-png-download.png](https://cdn.dribbble.com/users/1591951/screenshots/4168633/cv_still_2x.gif?compress=1&resize=400x300&vertical=center)" width="500" height="400"/>
+<img src= "https://cdn.dribbble.com/users/1591951/screenshots/4168633/cv_still_2x.gif?compress=1&resize=400x300&vertical=center" width="500" height="400"/>
 
 ## Table of Contents
  - Introduction

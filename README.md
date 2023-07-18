@@ -23,7 +23,7 @@ Movehub has shared three datasets with us:
 ### Content
 ***movehubqol.csv***
 
-Cities ranked by
+Cities ranked by:
 
  - Movehub Rating: A combination of all scores for an overall rating for a city or country.
 

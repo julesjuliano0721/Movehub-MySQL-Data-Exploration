@@ -20,6 +20,7 @@ Movehub has shared three datasets with us:
  - cities.csv
 
 
+### Content
 ***movehubqol.csv***
 
 Cities ranked by
@@ -49,4 +50,6 @@ Unit: GBP
  - Avg Disposable Income
 
 ***cities.csv***
- - list of cities and their corresponding country
+ - List of cities and their corresponding country
+
+##EDR

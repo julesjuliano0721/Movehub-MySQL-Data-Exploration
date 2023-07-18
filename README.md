@@ -22,7 +22,7 @@ Movehub has shared three datasets with us:
 
 Both datasets contain the same content:
 
-###movehubqualityoflife.csv
+### movehubqualityoflife.csv
 
 Cities ranked by
 
@@ -38,7 +38,7 @@ Cities ranked by
 
  - Crime Rating: Low is good. The lower the score the safer people feel in this city.
 
-###movehubcostofliving.csv
+### movehubcostofliving.csv
 
 Unit: GBP
 
@@ -50,5 +50,5 @@ Unit: GBP
  - Avg Rent
  - Avg Disposable Income
 
-###cities.csv
+### cities.csv
  - list of cities and their corresponding country

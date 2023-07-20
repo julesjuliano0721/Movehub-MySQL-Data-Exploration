@@ -19,7 +19,7 @@ The purpose of this project is to explore and discover key insights within datas
 
 ## Data
 
-Movehub has shared three datasets with us:
+Movehub shared three datasets with us:
 
  - movehubqol.csv
  - movehubcol.csv
@@ -31,17 +31,17 @@ Movehub has shared three datasets with us:
 
 Cities ranked by:
 
- - Movehub Rating: A combination of all scores for an overall rating for a city or country.
+ - **Movehub Rating**: A combination of all scores for an overall rating for a city or country.
 
- - Purchase Power: This compares the average cost of living with the average local wage.
+ - **Purchase Power**: This compares the average cost of living with the average local wage.
 
- - Health Care: Compiled from how citizens feel about their access to healthcare, and its quality.
+ - **Health Care**: Compiled from how citizens feel about their access to healthcare, and its quality.
 
- - Pollution: Low is good. A score of how polluted people find a city, includes air, water and noise pollution.
+ - **Pollution**: Low is good. A score of how polluted people find a city, includes air, water and noise pollution.
 
- - Quality of Life: A balance of healthcare, pollution, purchase power, crime rate to give an overall quality of life score.
+ - **Quality of Life**: A balance of healthcare, pollution, purchase power, crime rate to give an overall quality of life score.
 
- - Crime Rating: Low is good. The lower the score the safer people feel in this city.
+ - **Crime Rating**: Low is good. The lower the score the safer people feel in this city.
 
 ***movehubcol.csv***
 

@@ -60,7 +60,7 @@ Unit: GBP
 
 
 
-## ERD (Entity Relationship Diagram)
+## ERD - Entity Relationship Diagram
 
 
 ![ERD movehub](https://github.com/julesjuliano0721/1stSQLProject/assets/136859698/26c78191-a720-4378-aa1b-f9c98e7ae9c1)

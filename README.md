@@ -13,7 +13,8 @@
 
 ## Introduction
 
-The purpose of this project is to explore and discover key insights within datasets provided to us by Movehub, a company that uses data-driven decisions to help people relocate internationally. We will be using MySQL to further develop a better understanding of patterns and trends based on the data made available to us.
+This project focuses on the comprehensive analysis of datasets generously provided by Movehub, a company renowned for leveraging data-driven strategies to assist individuals in their international relocation decisions. Utilizing the MySQL database management system, we aim to extract meaningful insights, identify patterns, and uncover trends within the data. Our goal is to offer a deep understanding of the factors that influence international relocations, ultimately contributing to the enhancement of Movehub's data-driven decision-making processes.
+
 
 
 
